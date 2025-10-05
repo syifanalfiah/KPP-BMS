@@ -8,3 +8,4 @@
 
 
 [LINK VERCEL]([https://link-yang-dituju.com](https://kpp-bms-syif.vercel.app/))
+https://kpp-bms-syif.vercel.app/
